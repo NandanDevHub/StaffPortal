@@ -18,12 +18,12 @@ This project serves as a modular foundation for learning and experimenting with 
 ## Getting Started
 
 ### Step 1 - Clone the Repository
-git clone https://github.com/NandanDevHub/TalentTrack.git
+git clone https://github.com/NandanDevHub/StaffPortal.git
 
 ---
 
 ### Step 2 - Navigate into the Project Folder
-cd TalentTrack
+cd StaffPortal
 
 ---
 
