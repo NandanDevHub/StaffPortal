@@ -1,0 +1,37 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Logs
+*.log
+
+# Environment files
+.env
+
+# ASP.NET Core
+appsettings.Development.json
+
+# Node dependencies (if using frontend)
+node_modules/
+
+# Publish output
+/wwwroot/dist
+/publish/
+
+# Generated files
+*.swp
+*.tmp
+*.cache
